@@ -1,0 +1,7 @@
+<Subject>Sending
+Dear <name>,
+
+Today is your turn.
+
+Regards,
+Bot
